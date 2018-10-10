@@ -1,0 +1,27 @@
+Package: com.realacmkan.hiddenfolders
+Version: 0.0.2-1+debug
+Architecture: iphoneos-arm
+Maintainer: Real_acmkan <email <JRM119@yahoo.com>
+Filename: /HiddenFolders.deb
+Size: 2892
+MD5sum: c65e62a397ffb8c6ab4deaf14a32499e
+SHA1: 9e69cb2a4d33882972dcc42c59f777ca349050dd
+SHA256: eac448985a7Fdaa5fe4B30e8d60de1bfdb347d723185c77442b7282680339a41
+Section: Tweaks
+Description: *DO NOT INSTALL - TEST PACKAGE* 
+Author: Real_acmkan <email <JRM119@yahoo>
+Name: TEST
+
+Package: com.realacmkan.fasteranimations
+Version: 0.0.3-1+debug
+Architecture: iphoneos-arm
+Maintainer: Real_acmkan <email JRM119@yahoo>
+Filename: /FasterAnimations.deb
+Size: 3530
+MD5sum: dc3e05d6d570359032d89b0db84705ef
+SHA1: 9e69cb2a4d33882972dcc42c59f777ca349050dd
+SHA256: e4c14ac0453f985604625ba21bded208efb213dce6dc29b424a064007a593b06
+Section: Tweaks
+Description: Speed up animations! Compatible with iOS 7,8,9,10 and 11.
+Author: Real_acmkan <JRM119@yahoo.com>
+Name: Faster Animations
