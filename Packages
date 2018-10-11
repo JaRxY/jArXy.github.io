@@ -25,3 +25,24 @@ Section: Tweaks
 Description: Speed up animations! Compatible with iOS 7,8,9,10 and 11.
 Author: Real_acmkan <JRM119@yahoo.com>
 Name: Faster Animations
+
+Package: com.devteam.ultrasn0w
+Version: 1.2.4
+Architecture: iphoneos-arm
+Maintainer: Yourname <email JRM119@yahoo.com>
+Depends: mobilesubstrate
+Filename: /Ultrasn0w1.2.4
+Size: 14148
+MD5sum: 21b0b34dfba77e69d9f614dfd59c0d81
+SHA1: 280dec151dc988120bcee6e20059de843a694813
+SHA256: d3a644c1e7a2eeceefd1691d1b0455306f70972f616aeb87c1d395018c27d7bd
+Section: Legacy Tweaks
+Description: Only Compatibe with these baseband's: 04.26.08
+05.11.07
+05.12.01
+05.13.04
+06.15.00 
+iPhone 4: 01.59.00 (if device is on iOS 5.x or lower)
+iPhone Dev's Team's iPhone 4, 3G and 3GS software unlock, now with added PwnApple.
+Author: Dev Team <email JRM119@yahoo.com>
+Name: Ultrasn0w
