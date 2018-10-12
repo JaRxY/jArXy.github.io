@@ -29,7 +29,7 @@ Name: Faster Animations
 Package: com.devteam.ultrasn0w
 Version: 1.2.4
 Architecture: iphoneos-arm
-Maintainer: Yourname <email JRM119@yahoo.com>
+Maintainer: Dev Team <email JRM119@yahoo.com>
 Depends: mobilesubstrate
 Filename: /Ultrasn0w1.2.4.deb
 Size: 14148
@@ -41,11 +41,11 @@ Description: iPhone Dev's Team's iPhone 4, 3G and 3GS software unlock, now with 
 Author: Dev Team <email JRM119@yahoo.com>
 Name: Ultrasn0w 1.2.4
 
-Package: com.chronic-dev.animate
+Package: com.chronicdev.animate
 Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: Chronic Dev <email jamartin123@hotmail.co.uk>
-Filename: /animate.deb
+Filename: /animate1.0.1.deb
 Size: 129030
 MD5sum: 9ff9572a9c35aa4075223115a86341f6
 SHA1: 33ca74b90af9ed2bcad2ca9dd8fcacd257cdac2d
@@ -53,4 +53,4 @@ SHA256: a92728c1ce0602e9c59c5372a2938b7a3475f5d5ebdfce65431136c1613ece34
 Section: Legacy Tweaks
 Description: Animate for iOS 6! Make sure to install this and "Animate Fix 4.x.x 5.x.x 6.x.x" 
 Author: Chronic Dev <email jamartin123@hotmail.co.uk>
-Name: animate Fixed
+Name: Animate Fixed
