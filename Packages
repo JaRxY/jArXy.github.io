@@ -41,8 +41,8 @@ Description: iPhone Dev's Team's iPhone 4, 3G and 3GS software unlock, now with 
 Author: Dev Team <email JRM119@yahoo.com>
 Name: Ultrasn0w 1.2.4
 
-Package: com.chronicdev.animate
-Version: 1.0.1
+Package: org.chronic-dev.animate
+Version: 1.0.1-1
 Architecture: iphoneos-arm
 Maintainer: Chronic Dev <email jamartin123@hotmail.co.uk>
 Filename: /animate1.0.1.deb
