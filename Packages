@@ -55,7 +55,7 @@ Description: Animate for iOS 6! Make sure to install this and "Animate Fix 4.x.x
 Author: Chronic Dev <email jamartin123@hotmail.co.uk>
 Name: Animate Fixed
 
-Package: com.jarxy.DDLC-iOS_1
+Package: com.jarxy.DDLC-iOS1
 Version: iOS_1.0.0-1+debug
 Architecture: iphoneos-arm
 Maintainer: Jarxy <jamartin123@hotmail.co.uk>
@@ -69,7 +69,7 @@ Description:  BETA PACKAGE! INSTALL WITH CAUTION! Ported by DynamicDonkey0
 Author: DynamicDonkey0 <dynamicdonkey0@gmail.com>
 Name: Doki Doki iOS Part 1
 
-Package: com.jarxy.DDLC-iOS_2
+Package: com.jarxy.DDLC-iOS2
 Version: iOS_1.0.0-1+debug
 Architecture: iphoneos-arm
 Maintainer: Jarxy <jamartin123@hotmail.co.uk>
@@ -83,7 +83,7 @@ Description: BETA PACKAGE! INSTALL WITH CAUTION! Ported by DynamicDonkey0
 Author: DynamicDonkey0 <dynamicdonkey0@gmail.com>
 Name: Doki Doki iOS Part 2
 
-Package: com.jarxy.DDLC-iOS_3
+Package: com.jarxy.DDLC-iOS3
 Version: iOS_1.0.0-1+debug
 Architecture: iphoneos-arm
 Maintainer: Jarxy <jamartin123@hotmail.co.uk>
