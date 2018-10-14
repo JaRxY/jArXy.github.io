@@ -56,7 +56,7 @@ Author: Chronic Dev <email jamartin123@hotmail.co.uk>
 Name: Animate Fixed
 
 Package: com.jarxy.DDLC-iOS1
-Version: iOS_1.0.0-1+debug
+Version: 1.0.0-1+debug
 Architecture: iphoneos-arm
 Maintainer: Jarxy <jamartin123@hotmail.co.uk>
 Filename: /DokiDoki1.deb
@@ -70,7 +70,7 @@ Author: DynamicDonkey0 <dynamicdonkey0@gmail.com>
 Name: Doki Doki iOS Part 1
 
 Package: com.jarxy.DDLC-iOS2
-Version: iOS_1.0.0-1+debug
+Version: 1.0.0-1+debug
 Architecture: iphoneos-arm
 Maintainer: Jarxy <jamartin123@hotmail.co.uk>
 Filename: /DokiDoki2.deb
@@ -84,7 +84,7 @@ Author: DynamicDonkey0 <dynamicdonkey0@gmail.com>
 Name: Doki Doki iOS Part 2
 
 Package: com.jarxy.DDLC-iOS3
-Version: iOS_1.0.0-1+debug
+Version: 1.0.0-1+debug
 Architecture: iphoneos-arm
 Maintainer: Jarxy <jamartin123@hotmail.co.uk>
 Filename: /DokiDoki3.deb
