@@ -38,10 +38,10 @@ SHA1: 280dec151dc988120bcee6e20059de843a694813
 SHA256: d3a644c1e7a2eeceefd1691d1b0455306f70972f616aeb87c1d395018c27d7bd
 Section: Legacy Tweaks
 Description: iPhone Dev's Team's iPhone 4, 3G and 3GS software unlock, now with added PwnApple.
-Author: Dev Team <email JRM119@yahoo.com>
+Author: Dev Team <JRM119@yahoo.com>
 Name: Ultrasn0w 1.2.4
 
-Package: org.chronic-dev.animate
+Package: org.jarxy.animate
 Version: 1.0.1-1
 Architecture: iphoneos-arm
 Maintainer: Chronic Dev <email jamartin123@hotmail.co.uk>
