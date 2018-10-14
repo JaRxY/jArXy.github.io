@@ -36,12 +36,12 @@ Size: 14148
 MD5sum: 21b0b34dfba77e69d9f614dfd59c0d81
 SHA1: 280dec151dc988120bcee6e20059de843a694813
 SHA256: d3a644c1e7a2eeceefd1691d1b0455306f70972f616aeb87c1d395018c27d7bd
-Section: Legacy Tweaks
+Section: System
 Description: iPhone Dev's Team's iPhone 4, 3G and 3GS software unlock, now with added PwnApple.
 Author: Dev Team <JRM119@yahoo.com>
 Name: Ultrasn0w 1.2.4
 
-Package: org.jarxy.animate
+Package: org.chronic-dev.animate
 Version: 1.0.1-1
 Architecture: iphoneos-arm
 Maintainer: Chronic Dev <email jamartin123@hotmail.co.uk>
@@ -50,7 +50,49 @@ Size: 129030
 MD5sum: 9ff9572a9c35aa4075223115a86341f6
 SHA1: 33ca74b90af9ed2bcad2ca9dd8fcacd257cdac2d
 SHA256: a92728c1ce0602e9c59c5372a2938b7a3475f5d5ebdfce65431136c1613ece34
-Section: Legacy Tweaks
+Section: System
 Description: Animate for iOS 6! Make sure to install this and "Animate Fix 4.x.x 5.x.x 6.x.x" 
 Author: Chronic Dev <email jamartin123@hotmail.co.uk>
 Name: Animate Fixed
+
+Package: com.jarxy.DDLC-iOS_1
+Version: iOS_1.0.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: Jarxy <jamartin123@hotmail.co.uk>
+Filename: /DokiDoki1.deb
+Size: 23482741
+MD5sum: 10ddf33f71d501221527217c5a9b2fd5
+SHA1: 06fa3ced7ed3dc0d16de6790c83f57b55366885a
+SHA256: 656a330971808c1c0ee6f28157a25a10c90e73a0d5329f29baa69835b0600f22
+Section: Games
+Description:  BETA PACKAGE! INSTALL WITH CAUTION! Ported by DynamicDonkey0
+Author: DynamicDonkey0 <dynamicdonkey0@gmail.com>
+Name: Doki Doki iOS Part 1
+
+Package: com.jarxy.DDLC-iOS_2
+Version: iOS_1.0.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: Jarxy <jamartin123@hotmail.co.uk>
+Filename: /DokiDoki2.deb
+Size: 64326727
+MD5sum: fc55cd050255b54dc81aad72d638c4f0
+SHA1: eca79fcaa60bf6e487778fccdc9802cafaafddd0
+SHA256: f8579316262d9b43056711c18efcafb21d72f66eeb8c1a79c67fd8e20fc7a25e
+Section: Games
+Description: BETA PACKAGE! INSTALL WITH CAUTION! Ported by DynamicDonkey0
+Author: DynamicDonkey0 <dynamicdonkey0@gmail.com>
+Name: Doki Doki iOS Part 2
+
+Package: com.jarxy.DDLC-iOS_3
+Version: iOS_1.0.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: Jarxy <jamartin123@hotmail.co.uk>
+Filename: /DokiDoki3.deb
+Size: 64330267
+MD5sum: f61cd380e14c912e9cfac65da38fa45c
+SHA1: 73a5a529ad7b9262e089bcd9d862bf5a2f3b78b9
+SHA256: dfdff629305eba6ae741b8e974736f1d5a8034c110bbfa41d88ec612820678e8
+Section: Games
+Description: BETA PACKAGE! INSTALL WITH CAUTION! Ported by DynamicDonkey0
+Author: DynamicDonkey0 <dynamicdonkey0@gmail.com>
+Name: Doki Doki iOS Part 3

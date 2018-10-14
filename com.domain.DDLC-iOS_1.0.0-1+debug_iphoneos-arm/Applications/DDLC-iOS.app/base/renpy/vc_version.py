@@ -1,1 +1,0 @@
-vc_version = 3347
