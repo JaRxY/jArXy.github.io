@@ -1,0 +1,64 @@
+#!/bin/sh
+
+if [[ $EUID -ne 0 ]]; then
+   echo "In order to interact with the firewall you must be the root user"; 
+   exit 1
+fi
+
+if [ "$#" -eq 0 ]; then
+   echo "Not enough ARGS"
+   exit 1 
+fi
+
+enable(){
+   if [ ! -f /etc/pf.conf ]; then
+       echo "Config not found. Creating one now"
+       echo "table <badhosts> persist" >> /etc/pf.conf
+       echo "block on pdp_ip0 from <badhosts> to any">> /etc/pf.conf
+       echo "block on en0 from <badhosts> to any">> /etc/pf.conf
+       echo "Config created at /etc/"
+   fi
+   pfctl -e -q
+   pfctl -f /private/etc/pf.conf; clear  
+   printf "\nThe firewall is now enabled\n\n"
+}
+
+disable(){
+    pfctl -d -q
+    printf "\nThe Firewall is now disabled\n\n"
+}
+
+allow(){
+   if [ -z "$1" ]; then
+       printf "\nUsage: efw allow ARGS\n\n"
+       printf "Where ARGS is an ip address\n\n"
+   fi
+   pfctl -q -t badhosts -T delete $1 
+   echo "IP address allowed"
+}
+
+deny(){
+   if [ -z "$1" ]; then
+       printf "\nUsage: efw deny ARGS\n\n"
+       printf "Where ARGS is an ip address\n\n"
+   fi
+   pfctl -q -t badhosts -T add $1 
+   echo "IP address blocked"
+}
+
+status(){
+   pfctl -sa
+}
+
+help(){
+   printf "\nUsage: efw COMMAND\n\n"
+   echo "Commands:"
+   echo " enable             enables the firewall"
+   echo " disable            disables the firewall"
+   echo " allow ARGS         add allow rule"
+   echo " deny ARGS          add deny rule"
+   echo " status             see status of firewall"
+   echo " help               shows this message"
+   printf "\n"
+}
+$1 $2

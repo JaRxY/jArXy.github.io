@@ -110,3 +110,17 @@ Section: Tweaks
 Description: Removes the Top Part of the Keyboard (Spell Check etc) - Compatible with iOS 11
 Author: Filthy <a_h_rabie@yahoo.com>
 Name: Topless Keyboard 
+
+Package: com.jmukes97.efw
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Jarxy <jamartin123@hotmail.co.uk>
+Filename: /com.jmukes97.efw.deb
+Size: 1302
+MD5sum: ed85973bf85a2e6677a9a2d74d9ecdc6
+SHA1: a2e8a92e63d3e376a6d74e36f3fa85438ef58739
+SHA256: 7139097c0ccf09a97209b7505ec2f2c6538ae7b0a32eeb6372e16ce8300eaf8d
+Section: Networking
+Description: Blocks incoming and outgoing connections! Usage: efw help
+Author: jmukes97 <jamartin123@hotmail.co.uk>
+Name: Easy Firewall
