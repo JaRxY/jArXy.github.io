@@ -54,3 +54,59 @@ Section: System
 Description: Animate for iOS 6! Make sure to install this and "Animate Fix 4.x.x 5.x.x 6.x.x" 
 Author: Chronic Dev <email jamartin123@hotmail.co.uk>
 Name: Animate Fixed
+
+Package: com.AHRabie.NoMoreDictationButton
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Filthy <a_h_rabie@yahoo.com>
+Filename: /com.AHRabie.NoMoreDictationButton_1.0_iphoneos-arm.deb
+Size: 3004
+MD5sum: c727ad60cbed1952c4bd924bc85db183
+SHA1: 66cc259119c5ee80c9efa77bbc1bb317f230fe93
+SHA256: 41cdb136d9d3a85ab2f4036cfafcc5e7741570bd6885d16c0d68d80120aca113
+Section: Tweaks
+Description: Removes the Dictation Button
+Author: Filthy <a_h_rabie@yahoo.com>
+Name: No More Dictaion
+
+Package: com.AHRabie.NoMoreKeyboardSettings
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Filthy <a_h_rabie@yahoo.com>
+Filename: /com.AHRabie.NoMoreKeyboardSettings_1.0_iphoneos-arm.deb
+Size: 2884 
+MD5sum: c8cedc7730394749520516505d703a54
+SHA1: 617a96000dc6f41c03e91ed9e316dbe2074a0f77
+SHA256: bef0a1ea81d03a6a3cc839c30ac7a86234421748fd4ec9e8e33137177debff64
+Section: Tweaks
+Description: Removes Keyboard Settings - Compatible with iOS 11
+Author: Filthy <a_h_rabie@yahoo.com>
+Name: No More Keyboard Settings
+
+Package: com.AHRabie.NoMoreOneHandedKeyboard
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Jarxy <jamartin123@hotmail.co.uk>
+Filename: /com.AHRabie.NoMoreOneHandedKeyboard_1.0_iphoneos-arm.deb
+Size: 2892
+MD5sum: 4077c4c43df5703616e28bbb29b08668
+SHA1: 0e7f957cc237e6a0d6436dde6c385e5502914292
+SHA256: 5b14ac28fa39af99d9f632a389f588bf9ab9f53e207adb58e53e958ad6075e8b
+Section: Tweaks
+Description: Removes One Handed Keyboard - Compatible with iOS 11
+Author: Filthy <a_h_rabie@yahoo.com>
+Name: No More One Handed Keyboard
+
+Package: com.AHRabie.ToplessKeyboard
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Jarxy <jamartin123@hotmail.co.uk>
+Filename: /com.AHRabie.ToplessKeyboard_1.0_iphoneos-arm.deb
+Size: 4096
+MD5sum: fa198190925bef715eac36ab38266014
+SHA1: 9c27b7acc755d8cf7b6052ed67bd659b89caf276
+SHA256: b6c702ee8f99e222ef16a969158cf5e3cc98a3963768e5a3930eb8f3112e19b9
+Section: Tweaks
+Description: Removes the Top Part of the Keyboard (Spell Check etc) - Compatible with iOS 11
+Author: Filthy <a_h_rabie@yahoo.com>
+Name: Topless Keyboard 
