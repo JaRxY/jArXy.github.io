@@ -46,8 +46,60 @@ deny(){
    echo "IP address blocked"
 }
 
+file(){
+   if [ -z "$1" ]; then
+       printf "\nUsage: efw file ARGS\n\n"
+       printf "Where ARGS is an absolute /path/to/the/text/file\nNOTE: every IP or servername must be on their own line\n\n"
+   fi
+    if [  -f "$1" ]; then
+          pfctl  -q -t badhosts -T add -f "$1"
+          echo "IP addresses added from $1"
+    fi
+     echo $1
+}
+
 status(){
    pfctl -sa
+}
+
+batch(){
+if [ -z "$1" ]; then
+       printf "\nUsage: efw batch ARGS\n"
+       printf "Where ARGS is allow or deny\n\n"
+   fi
+
+if [ "$1" = "allow" ]; then
+  printf "Enter an IP address then press return type done to stop\n"
+  read ip
+  while [ "$ip" != "done" ];
+   do
+      allow $ip
+      read ip 
+   done
+fi
+ 
+if [ "$1" = "deny" ]; then
+  printf "Enter an IP address then press return type done to stop\n"
+  read ip
+  while [ "$ip" != "done" ];
+   do
+      deny $ip
+      read ip 
+   done
+fi
+
+}
+
+restart(){
+    pfctl -d -q
+    sleep 3
+    enable
+}
+
+version(){
+     printf "\n"
+    echo "Easy Firewall v0.3"
+    printf "\n"
 }
 
 help(){
@@ -55,10 +107,16 @@ help(){
    echo "Commands:"
    echo " enable             enables the firewall"
    echo " disable            disables the firewall"
+   echo " restart            restarts the firewall"
+   printf "\n"
    echo " allow ARGS         add allow rule"
    echo " deny ARGS          add deny rule"
+   echo " file ARG.          block IPs from text file" 
+   echo " batch              allow or deny multiple IPs"
+   printf "\n"
    echo " status             see status of firewall"
    echo " help               shows this message"
+   echo " version            shows the version "
    printf "\n"
 }
 $1 $2

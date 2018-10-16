@@ -83,30 +83,15 @@ Author: Filthy <a_h_rabie@yahoo.com>
 Name: Topless Keyboard 
 
 Package: com.jmukes97.efw
-Version: 0.2
+Version: 0.3
 Architecture: iphoneos-arm
 Maintainer: Jarxy <jamartin123@hotmail.co.uk>
 Filename: /com.jmukes97.efw.deb
 Size: 1302
-MD5sum: ed85973bf85a2e6677a9a2d74d9ecdc6
-SHA1: a2e8a92e63d3e376a6d74e36f3fa85438ef58739
-SHA256: 7139097c0ccf09a97209b7505ec2f2c6538ae7b0a32eeb6372e16ce8300eaf8d
+MD5sum: fc06aecc567230145ac197616fbb1354
+SHA1: 0f2922c79f3cae5155612cdae1f5d2c03dd49b68
+SHA256: 5792bd0891c020ac29c0d12c56bf826ee71be6d99fd60009f2e6494f99c3d29e
 Section: Networking
 Description: Blocks incoming and outgoing connections! Usage: efw help
 Author: jmukes97 <jamartin123@hotmail.co.uk>
 Name: Easy Firewall
-
-Package: com.domain.DDLC-iOS
-Version: 1.0.0-1+debug
-Architecture: iphoneos-arm
-Maintainer: Jarxy <jamartin123@hotmail.co.uk>
-Depends: mobilesubstrate, wget, unzip
-Filename: /com.domain.DDLC-iOS_1.0.0-1+debug_iphoneos-arm.deb
-Size: 1148
-MD5sum: 9cbd3c7d764f46c6b3eb1ecea3f00cc9
-SHA1: f4514b0aabba5bd6eaf1e4586d4ea1fac4d2ffd0
-SHA256: 65493f1a0cfe6d59205240908979ca807a1164df48be15046088dde8a83b1ac0
-Section: Games
-Description: Doki Doki for iOS! Ported by DynamicDonkey0!
-Author: DynamicDonkey0 <jamartin123@hotmail.co.uk>
-Name: Doki Doki Literature Club for iOS!
