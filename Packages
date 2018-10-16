@@ -124,3 +124,18 @@ Section: Networking
 Description: Blocks incoming and outgoing connections! Usage: efw help
 Author: jmukes97 <jamartin123@hotmail.co.uk>
 Name: Easy Firewall
+
+Package: com.domain.DDLC-iOS
+Version: 1.0.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: Jarxy <jamartin123@hotmail.co.uk>
+Depends: mobilesubstrate, wget, unzip
+Filename: /com.domain.DDLC-iOS_1.0.0-1+debug_iphoneos-arm.deb
+Size: 1148
+MD5sum: 9cbd3c7d764f46c6b3eb1ecea3f00cc9
+SHA1: f4514b0aabba5bd6eaf1e4586d4ea1fac4d2ffd0
+SHA256: 65493f1a0cfe6d59205240908979ca807a1164df48be15046088dde8a83b1ac0
+Section: Games
+Description: Doki Doki for iOS! Ported by DynamicDonkey0!
+Author: DynamicDonkey0 <jamartin123@hotmail.co.uk>
+Name: Doki Doki Literature Club for iOS!
