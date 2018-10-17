@@ -1,1 +1,0 @@
-To uninstall DDLC-iOS, please delete DDLC-iOS.app, respring, and run uicache. This may not be needed later when the package size is smaller.

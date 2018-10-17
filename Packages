@@ -83,14 +83,14 @@ Author: Filthy <a_h_rabie@yahoo.com>
 Name: Topless Keyboard 
 
 Package: com.jmukes97.efw
-Version: 0.3
+Version: 0.5
 Architecture: iphoneos-arm
 Maintainer: Jarxy <jamartin123@hotmail.co.uk>
 Filename: /com.jmukes97.efw.deb
-Size: 1302
-MD5sum: fc06aecc567230145ac197616fbb1354
-SHA1: 0f2922c79f3cae5155612cdae1f5d2c03dd49b68
-SHA256: 5792bd0891c020ac29c0d12c56bf826ee71be6d99fd60009f2e6494f99c3d29e
+Size: 1856
+MD5sum: 995df54436353c667c533f32e1dffb83
+SHA1: 660c3ff4cf149416d6fbcd4a13cfc7af2d7b7a1d
+SHA256: 3df8b2e2e556ae2fd68febfe766d7c91a1e6bc782c03c35535a33d86628506e5
 Section: Networking
 Description: Blocks incoming and outgoing connections! Usage: efw help
 Author: jmukes97 <jamartin123@hotmail.co.uk>
