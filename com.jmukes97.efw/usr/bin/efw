@@ -97,7 +97,7 @@ restart(){
 
 version(){
      printf "\n"
-    echo "Easy Firewall v0.5"
+    echo "Easy Firewall v0.6"
     printf "\n"
 }
 
