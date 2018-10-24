@@ -2,7 +2,7 @@ Package: com.realacmkan.hiddenfolders
 Version: 0.0.2-1+debug
 Architecture: iphoneos-arm
 Maintainer: Real_acmkan <email <JRM119@yahoo.com>
-Filename: /HiddenFolders.deb
+Filename: /debs/HiddenFolders.deb
 Size: 2892
 MD5sum: c65e62a397ffb8c6ab4deaf14a32499e
 SHA1: 9e69cb2a4d33882972dcc42c59f777ca349050dd
@@ -16,7 +16,7 @@ Package: com.realacmkan.fasteranimations
 Version: 0.0.3-1+debug
 Architecture: iphoneos-arm
 Maintainer: Real_acmkan <email JRM119@yahoo>
-Filename: /FasterAnimations.deb
+Filename: /debs/FasterAnimations.deb
 Size: 3530
 MD5sum: dc3e05d6d570359032d89b0db84705ef
 SHA1: 9e69cb2a4d33882972dcc42c59f777ca349050dd
@@ -30,7 +30,7 @@ Package: com.AHRabie.NoMoreDictationButton
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Filthy <a_h_rabie@yahoo.com>
-Filename: /com.AHRabie.NoMoreDictationButton_1.0_iphoneos-arm.deb
+Filename: /debs/com.AHRabie.NoMoreDictationButton_1.0_iphoneos-arm.deb
 Size: 3004
 MD5sum: c727ad60cbed1952c4bd924bc85db183
 SHA1: 66cc259119c5ee80c9efa77bbc1bb317f230fe93
@@ -44,7 +44,7 @@ Package: com.AHRabie.NoMoreKeyboardSettings
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Filthy <a_h_rabie@yahoo.com>
-Filename: /com.AHRabie.NoMoreKeyboardSettings_1.0_iphoneos-arm.deb
+Filename: /debs/com.AHRabie.NoMoreKeyboardSettings_1.0_iphoneos-arm.deb
 Size: 2884 
 MD5sum: c8cedc7730394749520516505d703a54
 SHA1: 617a96000dc6f41c03e91ed9e316dbe2074a0f77
@@ -58,7 +58,7 @@ Package: com.AHRabie.NoMoreOneHandedKeyboard
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Jarxy <jamartin123@hotmail.co.uk>
-Filename: /com.AHRabie.NoMoreOneHandedKeyboard_1.0_iphoneos-arm.deb
+Filename: /debs/com.AHRabie.NoMoreOneHandedKeyboard_1.0_iphoneos-arm.deb
 Size: 2892
 MD5sum: 4077c4c43df5703616e28bbb29b08668
 SHA1: 0e7f957cc237e6a0d6436dde6c385e5502914292
@@ -72,7 +72,7 @@ Package: com.AHRabie.ToplessKeyboard
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Jarxy <jamartin123@hotmail.co.uk>
-Filename: /com.AHRabie.ToplessKeyboard_1.0_iphoneos-arm.deb
+Filename: /debs/com.AHRabie.ToplessKeyboard_1.0_iphoneos-arm.deb
 Size: 4096
 MD5sum: fa198190925bef715eac36ab38266014
 SHA1: 9c27b7acc755d8cf7b6052ed67bd659b89caf276
@@ -86,7 +86,7 @@ Package: com.jmukes97.efw
 Version: 0.6
 Architecture: iphoneos-arm
 Maintainer: Jarxy <jamartin123@hotmail.co.uk>
-Filename: /com.jmukes97.efw.deb
+Filename: /debs/com.jmukes97.efw.deb
 Size: 1870
 MD5sum: 6cbdad78bdee317c615504a9240d7688
 SHA1: de7869ca464e03e8995f365d97e1bde0f9905017
