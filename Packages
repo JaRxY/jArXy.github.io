@@ -95,3 +95,31 @@ Section: Networking
 Description: Blocks incoming and outgoing connections! Usage: efw help
 Author: jmukes97 <jamartin123@hotmail.co.uk>
 Name: Easy Firewall
+
+Package: com.yellowsn0w_0.9.6
+Version: 0.9.6
+Architecture: iphoneos-arm
+Maintainer: Jarxy <jamartin123@hotmail.co.uk>
+Filename: /debs/yellowsn0w_0.9.6.deb
+Size: 6540
+MD5sum: 4be3166cc14bc8a4af40beaf6a5e5115
+SHA1: 7479a46229adfcc0404131894aeb0686fd2f0c2e
+SHA256: a539d02de4559c8cb65eecd4453faba10ef60465e9b2f5925f24f94177daac23
+Section: System
+Description: Yellowsn0w legacy tweak. Previous version of Ultrasn0w
+Author: Dev Team <jamartin123@hotmail.com>
+Name: Yellowsn0w
+
+Package: org.chronic-dev.animate
+Version: 1.0.1-1
+Architecture: iphoneos-arm
+Maintainer: Jarxy <jamartin123@hotmail.co.uk>
+Filename: /debs/animate.deb
+Size: 522524
+MD5sum: a3f419911bf03806bbe43753c5fc46c4
+SHA1: 2e6922269aeeb54ff8446ae777548f6d14e90783
+SHA256: 92d317d136c697e321a5f866009ebc3d0178fb043239e3272ab73215742ee491
+Section: System
+Description: Animate Fixed for iOS 4 to iOS 6! Custom Bootlogos. 
+Author: Chronic-Dev <jaywalk@chronic-dev.com>
+Name: animate Fixed
