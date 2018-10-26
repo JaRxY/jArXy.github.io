@@ -96,7 +96,7 @@ Description: Blocks incoming and outgoing connections! Usage: efw help
 Author: jmukes97 <jamartin123@hotmail.co.uk>
 Name: Easy Firewall
 
-Package: com.yellowsn0w_0.9.6
+Package: com.jarxy.yellowsn0w_0.9.6
 Version: 0.9.6
 Architecture: iphoneos-arm
 Maintainer: Jarxy <jamartin123@hotmail.co.uk>
