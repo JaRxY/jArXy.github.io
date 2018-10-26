@@ -96,19 +96,19 @@ Description: Blocks incoming and outgoing connections! Usage: efw help
 Author: jmukes97 <jamartin123@hotmail.co.uk>
 Name: Easy Firewall
 
-Package: com.jarxy.yellowsn0w_0.9.6
-Version: 0.9.6
+Package: com.devteam.Ultrasn0w
+Version: 1.2.4
 Architecture: iphoneos-arm
 Maintainer: Jarxy <jamartin123@hotmail.co.uk>
-Filename: /debs/yellowsn0w_0.9.6.deb
-Size: 6540
-MD5sum: 4be3166cc14bc8a4af40beaf6a5e5115
-SHA1: 7479a46229adfcc0404131894aeb0686fd2f0c2e
-SHA256: a539d02de4559c8cb65eecd4453faba10ef60465e9b2f5925f24f94177daac23
+Filename: /debs/ultrasn0w_1.2.4.deb
+Size: 14148
+MD5sum: 21b0b34dfba77e69d9f614dfd59c0d81
+SHA1: 280dec151dc988120bcee6e20059de843a694813
+SHA256: d3a644c1e7a2eeceefd1691d1b0455306f70972f616aeb87c1d395018c27d7bd
 Section: System
-Description: Yellowsn0w legacy tweak. Previous version of Ultrasn0w
+Description: Ultrasn0w - The iPhone Dev's hacktivate tool. Compatible with iPhone 3G, 3GS and iPhone 4 Hosted with Permission.
 Author: Dev Team <jamartin123@hotmail.com>
-Name: Yellowsn0w
+Name: Ultrasn0w 1.2.4
 
 Package: org.chronic-dev.animate
 Version: 1.0.1-1
