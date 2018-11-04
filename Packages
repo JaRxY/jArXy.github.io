@@ -137,3 +137,17 @@ Section: Multimedia
 Description: Brings the stock Youtube.app from iOS >5. ONLY compatible with iOS 6.
 Author: Jarxy <jamartin123@hotmail.co.uk>
 Name: BringBackYT
+
+Package: com.jarxy.angrybirdsios3
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Jarxy <jamartin123@hotmail.co.uk>
+Filename: /debs/AngryBirdsiOS3.deb
+Size: 14838990
+MD5sum: 94d2cbd670cc266b0b784d672c4d7c60
+SHA1: 8ff3dc84110ee22c90f570dfc5cb870fc20e4405
+SHA256: f02fd269ef2cfe3b00a6db9b715a375b58aca2c88e4cfb67febc497544739c8a
+Section: Games
+Description: Classic Angry Birds for iOS 3 to iOS 6! 
+Author: Rovio
+Name: Classic Angry Birds
