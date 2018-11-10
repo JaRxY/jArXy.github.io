@@ -148,6 +148,20 @@ MD5sum: 94d2cbd670cc266b0b784d672c4d7c60
 SHA1: 8ff3dc84110ee22c90f570dfc5cb870fc20e4405
 SHA256: f02fd269ef2cfe3b00a6db9b715a375b58aca2c88e4cfb67febc497544739c8a
 Section: Games
-Description: Classic Angry Birds for iOS 3 to iOS 6! 
+Description: Classic Angry Birds for iOS 3! DO NOT INSTALL ON iOS 4+!
 Author: Rovio
 Name: Classic Angry Birds
+
+Package: com.hackyouriphone.installer_4.0_iphoneos-arm
+Version: 4.0
+Architecture: iphoneos-arm
+Maintainer: Jarxy <jamartin123@hotmail.co.uk>
+Filename: /debs/com.hackyouriphone.installer_4.0_iphoneos-arm.deb
+Size: 539540
+MD5sum: 0a6cb09aabf5d1c1db40086548db1d8e
+SHA1: 78b63130dcd307a2acea4d378da644cc9df5f899
+SHA256: 8fd494ad8ec2439166b7b77b1a830e04ca758cabe5591ca12173e8101146a1f8
+Section: Utilities
+Description: Installer4 for legacy devices. Compatible with iOS 4 to 6 (not iPhone 5)
+Author: RiPDev <jamartin123@hotmail.co.uk>
+Name: Installer4
