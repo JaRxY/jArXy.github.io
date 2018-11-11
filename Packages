@@ -110,8 +110,8 @@ Description: Ultrasn0w - The iPhone Dev's hacktivate tool. Compatible with iPhon
 Author: Dev Team <jamartin123@hotmail.com>
 Name: Ultrasn0w 1.2.4
 
-Package: com.jarxy.animate
-Version: 1.0.0
+Package: org.chronic-dev.animate
+Version: 1.0.1-1
 Architecture: iphoneos-arm
 Maintainer: Jarxy <jamartin123@hotmail.co.uk>
 Filename: /debs/animate.deb
@@ -120,7 +120,7 @@ MD5sum: a3f419911bf03806bbe43753c5fc46c4
 SHA1: 2e6922269aeeb54ff8446ae777548f6d14e90783
 SHA256: 92d317d136c697e321a5f866009ebc3d0178fb043239e3272ab73215742ee491
 Section: System
-Description: Animate Fixed for iOS 4 to iOS 7! (You MUST install the correct fix for your iOS version)
+Description: Animate Fixed for iOS 4.2.1 to iOS 7.X.X with NO install error! (You MUST install the correct fix for your iOS version) 
 Author: Chronic-Dev <jaywalk@chronic-dev.com>
 Name: animate
 
