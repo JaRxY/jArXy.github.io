@@ -7,7 +7,7 @@
 	<key>CFBundleExecutable</key>
 	<string>BootLogo</string>
 	<key>CFBundleIdentifier</key>
-	<string>org.findmytech.aljama.bootlogo</string>
+	<string>com.jarxy.animate</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundlePackageType</key>
