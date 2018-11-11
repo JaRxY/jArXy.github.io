@@ -120,23 +120,9 @@ MD5sum: 9ff9572a9c35aa4075223115a86341f6
 SHA1: 33ca74b90af9ed2bcad2ca9dd8fcacd257cdac2d
 SHA256: a92728c1ce0602e9c59c5372a2938b7a3475f5d5ebdfce65431136c1613ece34
 Section: System
-Description: Animate Fixed for iOS 4.2.1 to iOS 7.X.X with NO install error!
+Description: Animate Fixed for iOS 4.2.1 to iOS 7.X.X with NO install error! (It will give you a update loop in Cydia. I have contacted the uploader to resolve this issue)
 Author: Chronic-Dev <jaywalk@chronic-dev.com>
 Name: animate fixed
-
-Package: uk.invoxiplaygames.tubefixer
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: Jarxy <jamatin123@hotmai.co.uk>
-Filename: /debs/uk.invoxiplaygames.tubefixer-1.1.deb
-Size: 894
-MD5sum: 10955db2ddb81393bb34291216331bc7
-SHA1: a7bf0a8692380f211b72f0c8463054c390e3a065
-SHA256: 5c1dea24dd4321a3b8a0a5528075e2f700978d7e54b412b121510f69afdc5a9f
-Section: Multimedia
-Description: Fixes the built in YouTube app from iOS 1 to iOS 5! Experimental support for iOS 6
-Author: InvoxiPlayGames <jamartin123@hotmail.co.uk>
-Name: BringBackYT
 
 Package: com.jarxy.angrybirdsios3
 Version: 1.0
