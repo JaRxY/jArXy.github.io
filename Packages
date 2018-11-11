@@ -120,9 +120,9 @@ MD5sum: 9ff9572a9c35aa4075223115a86341f6
 SHA1: 33ca74b90af9ed2bcad2ca9dd8fcacd257cdac2d
 SHA256: a92728c1ce0602e9c59c5372a2938b7a3475f5d5ebdfce65431136c1613ece34
 Section: System
-Description: Animate Fixed for iOS 4.2.1 to iOS 7.X.X with NO install error! (You MUST install the correct fix for your iOS version) 
+Description: Animate Fixed for iOS 4.2.1 to iOS 7.X.X with NO install error!
 Author: Chronic-Dev <jaywalk@chronic-dev.com>
-Name: animate
+Name: animate fixed
 
 Package: com.tekwik.youtube
 Version: 1.3.1
