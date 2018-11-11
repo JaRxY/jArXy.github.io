@@ -124,18 +124,18 @@ Description: Animate Fixed for iOS 4.2.1 to iOS 7.X.X with NO install error!
 Author: Chronic-Dev <jaywalk@chronic-dev.com>
 Name: animate fixed
 
-Package: com.tekwik.youtube
-Version: 1.3.1
+Package: uk.invoxiplaygames.tubefixer
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Jarxy <jamatin123@hotmai.co.uk>
-Filename: /debs/com.tekwik.youtube_1.3.1_iphoneos-arm.deb
-Size: 313298
-MD5sum: 0a3c1802848b95f4b9c2148ad172523b
-SHA1: 52b76fdb5781f8f5b28bb5d80c8f1ff7f9fcfe0f
-SHA256: 36767ac453e07e8602d2f9c75bc4ed3db90d1b13be7dc50dad3c8ef42f2b9e95
+Filename: /debs/uk.invoxiplaygames.tubefixer-1.1.deb
+Size: 894
+MD5sum: 10955db2ddb81393bb34291216331bc7
+SHA1: a7bf0a8692380f211b72f0c8463054c390e3a065
+SHA256: 5c1dea24dd4321a3b8a0a5528075e2f700978d7e54b412b121510f69afdc5a9f
 Section: Multimedia
-Description: Brings the stock Youtube.app from iOS >5. ONLY compatible with iOS 6.
-Author: Jarxy <jamartin123@hotmail.co.uk>
+Description: Fixes the built in YouTube app from iOS 1 to iOS 5! Experimental support for iOS 6
+Author: InvoxiPlayGames <jamartin123@hotmail.co.uk>
 Name: BringBackYT
 
 Package: com.jarxy.angrybirdsios3
