@@ -137,3 +137,31 @@ Section: Games
 Description: Classic Angry Birds for iOS 3! DO NOT INSTALL ON iOS 4+!
 Author: Rovio
 Name: Classic Angry Birds
+
+Package: com.myrepospace.bassamkassem
+Version: 8.2.2
+Architecture: iphoneos-arm
+Maintainer: Jarxy <jamartin123@hotmail.co.uk>
+Filename: /debs/com.myrepospace.bassamkassem.iphonenativeapps_8.2.2_iphoneos-arm.deb
+Size: 46550336
+MD5sum: 382bed68d83b0365fac09a03f1372253
+SHA1: fe776c3d8395ca57a0358fe2cf9caeb2d98702a6
+SHA256: 6224052df8d458f22b368f2e6189b78b5fabfbeaa2defd79ec8e4948ceaa24e0
+Section: System
+Description: Brings iPhone native apps to the iPad 1! (Not compatible with any other device)
+Author: Unknownz21 <jamartin123@hotmail.co.uk>
+Name: iPhone Apps For iPad
+
+Package: com.myrepospace.BassamKassem
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Jarxy <jamartin123@hotmail.co.uk>
+Filename: /debs/com.myrepospace.BassamKassem.telepad_2_iphoneos-arm.deb
+Size: 2521412
+MD5sum: 3a9936145f17965c130a35279fcffaa0
+SHA1: a24b61c1d6d46f0c43260b840724d21ee4107082
+SHA256: 53c8920d7e229b56b85bf9eb70b3e49f0217f8605bcc9fbda9f5f9f400c76401
+Section: System
+Description: Telepad 2 for iPad. With thanks to Unknownz21. 
+Author: Unknownz21 <jamartin123@hotmail.co.uk>
+Name: Telepad2 for iPad
