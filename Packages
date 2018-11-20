@@ -191,7 +191,7 @@ MD5sum: 0ba744bf399fe41369f42d76a441e959
 SHA1: dec14adfe32c764762649ec7a458b3382a6552fd
 SHA256: 18888209c0b3e7d1c2862ac41569b69d128fd34f9b677b258d07e5011242774f
 Section: Themes
-Description: Some iCons for some packages.
+Description: Some icons for some packages
 Author: N/A <jamartin123@hotmail.co.uk>
 Name: Package iCons
 
