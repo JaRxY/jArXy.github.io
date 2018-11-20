@@ -165,3 +165,33 @@ Section: System
 Description: Telepad 2 for iPad. With thanks to Unknownz21. 
 Author: Unknownz21 <jamartin123@hotmail.co.uk>
 Name: Telepad2 for iPad
+
+Package: com.heaveniphone.ifile
+Version: 1.9.1-1
+Architecture: iphoneos-arm
+Maintainer: Jarxy <jamartin123@hotmail.co.uk>
+Depends: com.heaveniphone.icon
+Filename: /debs/com.heaveniphone.ifile_1.9.1-1_iphoneos-arm.deb
+Size: 7753258
+MD5sum: f8cba1d50fec1ac17d41386ae992cfad
+SHA1: 406f1804e64133f3c3222d8a66db43004710543a
+SHA256: 703b197def469b3ea231d9cab5870816f5fc67ddf6cb1a3b1ca8527f81c7d1f6
+Section: Applications
+Description: iFile: Patched and sadly cracked to work. Compatible for iOS 4.0 to iOS 7.1.2
+Author: C Heinelt <jamartin123@hotmail.co.uk>
+Name: iFile
+
+Package: com.heaveniphone.icon_2.4_iphoneos-arm
+Version: 2.4
+Architecture: iphoneos-arm
+Maintainer: Jarxy <jamartin123@hotmail.co.uk>
+Filename: /debs/com.heaveniphone.icon_2.4_iphoneos-arm.deb
+Size: 7264
+MD5sum: 0ba744bf399fe41369f42d76a441e959
+SHA1: dec14adfe32c764762649ec7a458b3382a6552fd
+SHA256: 18888209c0b3e7d1c2862ac41569b69d128fd34f9b677b258d07e5011242774f
+Section: Themes
+Description: Some iCons for some packages.
+Author: N/A <jamartin123@hotmail.co.uk>
+Name: Package iCons
+
