@@ -180,3 +180,45 @@ Section: Applications
 Description: iFile: Patched and cracked to work. Compatible for iOS 4.0 to iOS 7.1.2
 Author: C Heinelt <jamartin123@hotmail.co.uk>
 Name: iFile
+
+Package: com.tekwik.youtube
+Version: 1.3.1
+Architecture: iphoneos-arm
+Maintainer: Jarxy <jamartin123@hotmail.co.uk>
+Filename: /debs/com.tekwik.youtube_1.3.1_iphoneos-arm.deb
+Size: 313298
+MD5sum: 0a3c1802848b95f4b9c2148ad172523b
+SHA1: 52b76fdb5781f8f5b28bb5d80c8f1ff7f9fcfe0f
+SHA256: 36767ac453e07e8602d2f9c75bc4ed3db90d1b13be7dc50dad3c8ef42f2b9e95
+Section: MultiMedia
+Description: Brings back the YT app for iOS 6 only. Install along with TubeFixer.
+Author: Cipher <jamartin123@hotmail.com>
+Name: BringBackYT
+
+Package: com.devteam.yellowsn0w
+Version: 0.9.6
+Architecture: iphoneos-arm
+Maintainer: Jarxy <jamartin123@hotmail.co.uk>
+Filename: /debs/yellowsn0w_0.9.6.deb
+Size: 6540
+MD5sum: 4be3166cc14bc8a4af40beaf6a5e5115
+SHA1: 7479a46229adfcc0404131894aeb0686fd2f0c2e
+SHA256: a539d02de4559c8cb65eecd4453faba10ef60465e9b2f5925f24f94177daac23
+Section: System
+Description: Yellowsn0w - Original way of unlocking your iPhone 2G, 3G and 3GS. Not compatible with iOS 6
+Author: Dev Team <jamartin123@hotmail.co.uk>
+Name: Yellowsn0w
+
+Package: us.hackulo.appsync31
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Jarxy <jamartin123@hotmail.co.uk>
+Filename: /debs/appsync31-1.0.1.deb
+Size: 296542
+MD5sum: 534080636c26e40d3efbdf195f3bfdfb
+SHA1: 2e3be3668f26c9d4ac7b796042aa7b05184fe4ae
+SHA256: c0975018be2f1fe73eaeadce9a3c4ead17ab01b08eb41bd11a82b2f83c60fb70
+Section: Tweaks
+Description: Appsync for iOS 3.1 to 3.1.2! 
+Author: Cipher <jamartin123@hotmail.co.uk>
+Name: AppSync iOS 3.1.x
