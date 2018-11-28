@@ -1,0 +1,170 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>Profile</title><script type="text/javascript" src="gray.js"></script>
+<style type="text/css">
+body {
+	font-family:Rockwell Extra Bold, impact, Helvetica-Bold;
+	margin:0;
+	top:0;
+	left:0;
+	background-color:#CCCCCC;
+}
+#bapHeader {
+	width:748px;
+	margin:8px auto;
+	height:64px;
+/*	background-color:#ff0000;*/
+}
+
+#bapHeader .img, #bapHeader .text {
+	float:left;
+	height:96px;
+}
+#bapHeader .img .img {
+	width:64px;
+	height:64px; /* Leave room for text */
+	margin-left:16px;
+	margin-top:8px;
+	/*padding:8px 16px;*/
+}
+#bapHeader .img .img img {
+	width:100%;
+	height:100%;
+}
+#bapHeader .img .bottomText {
+	text-align:center;
+	width:96px;
+	font-family:Rockwell;
+	font-size:12px;
+	color:#0055CC;
+}
+#bapHeader .img {
+	width:96px;
+}
+#bapHeader .text .bap {
+	margin-top:8px;
+	font-size:16px;
+	line-height:20px;
+	margin-bottom:0px;
+	height:20px;
+}
+#bapHeader .text .rank {
+	margin-top:0px;
+	font-size:12px;
+}
+
+
+#profile {
+	width:768px;
+	/*height:480px;*/
+	/*position:absolute;
+	*/
+	margin:0;
+}
+
+.actionDiv {
+	width:748px;
+	margin:8px auto;
+	margin-bottom:0px;
+	height:20px;
+	font-size:12px;
+	font-family:Rockwell;
+	text-align:right;
+	color:#0055CC;
+}
+a {
+	color:#0055CC;
+	text-decoration:none;
+}
+.box, .boxNoBottom, .boxNoTop  {
+	width:748px;
+	margin:0px auto;
+	border:2px solid #000000;
+	height:20px;
+	font-size:12px;
+	font-height:16px;
+	line-height:20px;
+}
+.icons {
+	width:300px;
+	margin:16px auto;
+	min-height:32px;
+}
+.icons .img {
+	width:32px;
+	margin:4px;
+	height:32px;
+	float:left;
+}
+.icons .img img {
+	width:32px;
+	height:32px;
+}
+.boxNoBottom {
+	border-bottom-style:none;
+}
+.boxNoTop {
+	border-top-style:none;
+}
+
+.leftText, .rightText {
+	float:left;
+	width:48%;
+	height:20px;
+	font-size:12px;
+	font-height:16px;
+	line-height:20px;
+}
+
+.leftText {
+	text-align:left;
+	margin-left:2%;
+}
+.rightText {
+	text-align:right;
+	margin-right:2%;
+}
+.clear {clear:both;}
+</style>
+</head>
+<body>
+<div id='profile'>
+	<div id='bapHeader'>
+		<div class='img'>
+			<div class='img'>
+				<img class='DD' src='' />
+			</div>
+			<div class='bottomText'> <a href='#'>(Customize)</a> </div>
+		</div>
+			
+		<div class='text'>
+			<div class='bap'> BAP: </div>
+			<div class='rank'> Rank:  LVL: </div>
+		</div>
+	</div>
+	<div class='clear'></div>
+	
+	<div class='actionDiv'><a href='#badges'>(Get Badges)</a></div>
+	<div class='box'> MEDALS/BADGES </div>
+	<div class='icons'></div>
+	<div class='boxNoBottom'><div class='leftText'>SCORE:</div><div class='rightText'></div></div>
+	<div class='boxNoBottom'><div class='leftText'>COINS:</div><div class='rightText'></div></div>
+	<div class='boxNoBottom'><div class='leftText'>BSlapp BUCKS:</div><div class='rightText'></div></div>
+	<div class='boxNoBottom'><div class='leftText'>NEXT LEVEL:</div><div class='rightText'></div></div>
+	<div class='boxNoBottom'><div class='leftText'>NEXT RANK:</div><div class='rightText'></div></div>
+	<div class='boxNoBottom'><div class='leftText'>NES A.D. (+):</div><div class='rightText'></div></div>
+	<div class='boxNoBottom'><div class='leftText'>SNES A.D. (+):</div><div class='rightText'></div></div>
+	<div class='box'><div class='leftText'>TOTAL PLAY TIME:</div><div class='rightText'></div></div>
+	
+	<div class='actionDiv'> <a href='#gifts'>(Send Gifts)</a></div>	
+	<div class='box '> Gifts: </div>
+	<div class='icons'></div>
+	<div class='box'> Friends: </div>
+	<div class='icons'>
+<!--	<div class='img'><img src='img/icon.png'/></div>	 -->
+	</div>
+	<div class='clear'></div>
+	<div class='icons'></div>
+</div>
+</body>
+</html>
