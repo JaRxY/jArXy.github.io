@@ -222,33 +222,3 @@ Section: Tweaks
 Description: Appsync for iOS 3.1 to 3.1.2! 
 Author: Cipher <jamartin123@hotmail.co.uk>
 Name: AppSync iOS 3.1.x
-
-Package: com.bslapps.nesadad_2.5_iphoneos-arm
-Version: 2.5
-Architecture: iphoneos-arm
-Maintainer: Jarxy <jamartin123@hotmail.co.uk>
-Depends: libstatusbar, SpringBoardAccess, BTstack
-Filename: /debs/com.bslapps.nesadad_2.5_iphoneos-arm.deb
-Size: 3062392
-MD5sum: 317de05c2dca3fac8f88b4dbefb5fb6c
-SHA1: ca45400c882658f019aad8e9af997d73b816b6b7
-SHA256: d517700a4cea8c52a0fe1d81fcf2f1bc0d6232c06b960144a9ddda6be28df6b6
-Section: Games
-Description: A NES Emulator for iOS 3.1 to iOS 5.1.1!
-Author: BSlappes <jamartin123@hotmail.co.uk>
-Name: NES AD Plus
-
-Package: com.bslapps.snesadad_2.5_iphoneos-arm
-Version: <version>
-Architecture: iphoneos-arm
-Maintainer: Yourname <email (put in <>)>
-Depends: libstatusbar, SpringBoardAccess, BTstack
-Filename: /debs/com.bslapps.snesadad_2.5_iphoneos-arm
-Size: 4258676
-MD5sum: 2d32567bf4ffbf344e773da7185dc748
-SHA1: 908a40d13f314ebee601eff5881fa109c5daa4bf
-SHA256: 74a92ca8524bf0c14e4b8a9db66482e67c4df5599f904d584dbeb4b369fb74e2
-Section: Games
-Description: A SNES Emulator for iOS 3.1+ to iOS 5.1.1!
-Author: BSlappes <jamartin123@hotmail.co.uk>
-Name: SNES AD Plus
